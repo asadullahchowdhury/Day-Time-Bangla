@@ -1,0 +1,22 @@
+.wrapper {
+    width: 100%;
+    min-height: calc(100vh - 50px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+#day{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+    /*color: transparent;*/
+    /*-webkit-text-stroke: 2px  black;*/
+}
+#time{
+    font-size: 32px;
+    font-weight: 700;
+    color: transparent;
+    -webkit-text-stroke: 2px  black;
+}
